@@ -20,6 +20,6 @@ Fire - Strong fireball that does a lot of damage, but has a moderately high MP c
 SCREENSHOTS
 ____________________________________
 
-![Screenshot](Finsifhed_RPG/kibry #1.png);
-![Screenshot2](Finsifhed_RPG/kibry #2.png);
-![Screenshot3](Finsifhed_RPG/kibry #3.png);
+![Screenshot](Finsifhed_RPG___/kibry #1.png);
+![Screenshot2](Finsifhed_RPG___/kibry #2.png);
+![Screenshot3](Finsifhed_RPG___/kibry #3.png);
